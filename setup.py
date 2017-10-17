@@ -12,6 +12,6 @@ setup(
 	author_email = 'avlyssna@gmail.com',
 	description = 'An intuitive reCAPTCHA interface.',
 	license = 'MIT',
-	keywords = 'reCAPTCHA CAPTCHA'
+	keywords = 'reCAPTCHA CAPTCHA',
 	url = 'https://github.com/Avlyssna/Admire'
 )
